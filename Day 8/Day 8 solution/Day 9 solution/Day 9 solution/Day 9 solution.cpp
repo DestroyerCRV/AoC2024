@@ -47,6 +47,10 @@ void decompressInput()
 	}
 }
 
+void solveSecondPart()
+{
+
+}
 
 
 void solveFirstPart()
