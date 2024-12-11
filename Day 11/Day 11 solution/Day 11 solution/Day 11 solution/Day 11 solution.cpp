@@ -9,8 +9,8 @@ using namespace std;
 ifstream fin("input.in");
 ofstream fout("output.out");
 vector<string> v;
-map<int, int> mp;
-map<int, int> auxMP;
+map<long long, long long> mp;
+map<long long, long long> auxMP;
 
 void getInfo2()
 {
